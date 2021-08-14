@@ -1,1 +1,26 @@
-Find the minimum and maximum element in an array.
+<script>
+//Program to find maximum and minimum element in array
+
+let arr = [20,50,5,30,55];
+let min = [];
+let max = [];
+
+for(let i=0; i< arr.length;i++){
+console.log(arr[i])
+
+//Maximum Value
+if(arr[i] > max){
+max = arr[i]
+}
+
+//Minimun Value
+if(arr[i] < min){
+min = arr[i]
+}
+
+}
+
+console.log('Max',max)
+console.log('min',min)
+
+</script>
