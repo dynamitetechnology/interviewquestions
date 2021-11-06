@@ -1,26 +1,19 @@
-<script>
-//Program to find maximum and minimum element in array
-
-let arr = [20,50,5,30,55];
-let min = [];
-let max = [];
-
-for(let i=0; i< arr.length;i++){
-console.log(arr[i])
-
-//Maximum Value
-if(arr[i] > max){
-max = arr[i]
-}
-
-//Minimun Value
-if(arr[i] < min){
-min = arr[i]
-}
-
-}
-
-console.log('Max',max)
-console.log('min',min)
-
-</script>
+1.	What are tags and attributes in HTML?
+2.	What are different types of lists in HTML?
+3.	What is the ‘class’ attribute in HTML?
+4.	What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+5.	How to optimize website?
+6.	What is the significance of <head> and <body> tag in HTML?
+7.	How to include JavaScript code in HTML with any example.
+8.	What are forms and how to create forms in HTML?
+9.	How can we include audio or video in a webpage with   example?
+10.	What Is CSS and its type?
+11.	How to include external CSS in the webpage with example.
+12.	What are the different types of Selectors in CSS?
+13.	How many types of heading does an HTML contain?
+14.	How to create a hyperlink in HTML?
+15.	What is the use of a span tag? Give one example.
+16.	What is the Use of Comments in HTML?
+17.	How do you create a link that will connect to another web page when clicked?
+18.	What is function in JavaScript?
+19.	Differences between declaring variables using var, let and const.
