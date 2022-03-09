@@ -17,3 +17,11 @@
 17.	How do you create a link that will connect to another web page when clicked?
 18.	What is function in JavaScript?
 19.	Differences between declaring variables using var, let and const.
+20.	What is a web application?
+21.	What is the MVC pattern?
+22.	What is the purpose of the Program class?
+23.	What is model binding in ASP.NET?
+24.	What is an Action Method IN MVC?
+25.	What is NuGet package manager?
+26.	What are Properties in C#?
+27.	What are the Arrays in C#?
