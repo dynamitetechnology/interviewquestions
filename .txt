@@ -6,7 +6,7 @@
 6.	What is the significance of <head> and <body> tag in HTML?
 7.	How to include JavaScript code in HTML with any example.
 8.	What are forms and how to create forms in HTML?
-9.	How can we include audio or video in a webpage with   example?
+9.	9.	How can we include audio or video in a webpage with   example?
 10.	What Is CSS and its type?
 11.	How to include external CSS in the webpage with example.
 12.	What are the different types of Selectors in CSS?
@@ -25,3 +25,8 @@
 25.	What is NuGet package manager?
 26.	What are Properties in C#?
 27.	What are the Arrays in C#?
+28.	How to sort an array in C#?
+29.	What is a structure in C#?
+30.	What is polymorphism?
+31.	What is function overloading?
+32.	What is a sealed class in C#?
